@@ -2,6 +2,12 @@
 
 # Care to know about me 👀
 
+I love to learn new things and teach people about programming.
+
+My interests span all the way from front-end development to number theory, and I thrive on solving challenges in algorithms and data structures.
+
+I do all sorts of programming in my free time. I'm well versed in programming languages such as JavaScript Svelte-5 Tailwind 
+
 - 👋 Hi, I’m @Techie084
 - 👀 I’m interested in learning and meet with new people 
 - 🌱 I’m currently learning Tailwind-css and Svelte while building some JavaScript side Projects 
@@ -69,6 +75,12 @@
     </td>
   </tr>
 </table>
+
+I would be creating a blog soon and here are thing to read or look out for 
+- [Svelte Is Good For Beginners | Prime Reacts](https://www.youtube.com/watch?v=28NFyGwPHWY)
+
+Also check out my website, [**cameron.rs**](https://cameron.rs)
+
 <!---
 Techie084/Techie084 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
