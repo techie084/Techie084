@@ -7,7 +7,7 @@ My interests span all the way from front-end development and I thrive on solving
 I do all sorts of programming in my free time. I'm well versed in programming languages such as **JavaScript, Svelte-5, Tailwind** 
 
 - 👋 Hi, I’m @Techie084
-- 👀 I’m interested in learning and meet with new people 
+- 👀 I’m interested in learning and meeting with new people 
 - 🌱 I’m currently learning Tailwind-css and Svelte while building some JavaScript side Projects 
 - 💞️ I’m looking to collaborate on ... lol i dont think we are ready for thet conversation now 
 - 📫 Get in touch: click the links
