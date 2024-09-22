@@ -1,12 +1,10 @@
-## Hi, I'm Wisdom 👋 🚀
+## Hi, I'm Wisdom 🤟🚀
 
 # Care to know about me 👀
-
+I a **Junior SoftWare Developer** that love to build amazing stuff  
 I love to learn new things and teach people about programming.
-
-My interests span all the way from front-end development to number theory, and I thrive on solving challenges in algorithms and data structures.
-
-I do all sorts of programming in my free time. I'm well versed in programming languages such as JavaScript Svelte-5 Tailwind 
+My interests span all the way from front-end development and I thrive on solving challenges in algorithms and data structures.
+I do all sorts of programming in my free time. I'm well versed in programming languages such as **JavaScript, Svelte-5, Tailwind** 
 
 - 👋 Hi, I’m @Techie084
 - 👀 I’m interested in learning and meet with new people 
@@ -17,12 +15,12 @@ I do all sorts of programming in my free time. I'm well versed in programming la
 - 😄 Pronouns: he/him
 
 # Connect with me :
-   <p align="center">
+<p align="center">
 <a href = "https://x.com/Techie084"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/hottiejnr"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
- # My tech stack 
+ # My Tech Stack 
   <table>
   <tr>
     <td>
@@ -46,7 +44,7 @@ I do all sorts of programming in my free time. I'm well versed in programming la
         <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
         </a>
-        <p align="center">HTML5</p>
+        <p align="center">HTML-5</p>
       </p>
     </td>
     <td>
@@ -77,9 +75,9 @@ I do all sorts of programming in my free time. I'm well versed in programming la
 </table>
 
 I would be creating a blog soon and here are thing to read or look out for 
-- [Svelte Is Good For Beginners | Prime Reacts](https://www.youtube.com/watch?v=28NFyGwPHWY)
+  - [Svelte Is Good For Beginners | Prime Reacts](https://www.youtube.com/watch?v=28NFyGwPHWY)
 
-Also check out my website, [**cameron.rs**](https://cameron.rs)
+Also check out my website, [**Techie**]( )
 
 <!---
 Techie084/Techie084 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
