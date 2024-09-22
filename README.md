@@ -1,4 +1,4 @@
-## Hi! I a Wisdom 👋. Nice to meet you 
+## Hi, I'm Wisdom 👋 🚀
 
 # Care to know about me 👀
 
