@@ -77,7 +77,7 @@ I do all sorts of programming in my free time. I'm well versed in programming la
 I would be creating a blog soon and here are thing to read or look out for 
   - [Svelte Is Good For Beginners | Prime Reacts](https://www.youtube.com/watch?v=28NFyGwPHWY)
 
-Also check out my website, [**Techie**]( )
+Also check out my website, [**Techie**](https://techie084.github.io/Portfolio)
 
 <!---
 Techie084/Techie084 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
