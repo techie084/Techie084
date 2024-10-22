@@ -79,6 +79,9 @@ I would be creating a blog soon and here are thing to read or look out for
 
 Also check out my website, [**Techie**](https://techie084.github.io/Portfolio)
 
+# and also follow me on daily.dev where i get all the latest tech news 
+<a href="https://app.daily.dev/wisdommatthew08"><img src="https://api.daily.dev/devcards/v2/s64xTP0fCONPEFsvclsBJ.png?type=default&r=u9n" width="356" alt="Wisdom Matthew's Dev Card"/></a>
+
 <!---
 Techie084/Techie084 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
