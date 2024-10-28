@@ -1,18 +1,12 @@
 ## Hi, I'm Wisdom 🤟🚀
 
 # Care to know about me 👀
-I a **Junior SoftWare Developer** that love to build amazing stuff  
-I love to learn new things and teach people about programming.
+I a **Junior SoftWare Developer** that love to build amazing stuff
+I’m currently learning Tailwind-css and Svelte while building some JavaScript side Projects
+I’m looking to collaborate on some open-source projects and learn more about the open source world Fun fact i love to listen to music and watch anime and lot more 
+I love to learn new things, meeting with new people, teach people about programming.
 My interests span all the way from front-end development and I thrive on solving challenges in algorithms and data structures.
 I do all sorts of programming in my free time. I'm well versed in programming languages such as **JavaScript, Svelte-5, Tailwind** 
-
-- 👋 Hi, I’m @Techie084
-- 👀 I’m interested in learning and meeting with new people 
-- 🌱 I’m currently learning Tailwind-css and Svelte while building some JavaScript side Projects 
-- 💞️ I’m looking to collaborate on ... lol i dont think we are ready for thet conversation now 
-- 📫 Get in touch: click the links
-- ⚡ Fun fact: i love to listen to music and watch anime and lot more 
-- 😄 Pronouns: he/him
 
 # Connect with me :
 <p align="center">
@@ -79,7 +73,7 @@ I would be creating a blog soon and here are thing to read or look out for
 
 Also check out my website, [**Techie**](https://techie084.github.io/Portfolio)
 
-# and also follow me on daily.dev where i get all the latest tech news 
+# follow me on daily.dev
 <a href="https://app.daily.dev/wisdommatthew08"><img src="https://api.daily.dev/devcards/v2/s64xTP0fCONPEFsvclsBJ.png?type=default&r=u9n" width="356" alt="Wisdom Matthew's Dev Card"/></a>
 
 <!---
