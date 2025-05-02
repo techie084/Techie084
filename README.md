@@ -26,7 +26,7 @@ I do all sorts of programming in my free time. I'm well versed in programming la
 
  # My Tech Stack 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,svelte,typescript,express,nodejs" width={100}/><br>
+<img src="https://skillicons.dev/icons?i=svelte,tailwind,javascript,git,typescript,express,nodejs,golang,supabase,linux,mint,mongodb,webstorm,vscode" width={100}/><br>
 </div>
 
 # I would be creating a blog soon and here are thing to read or look out for :)
