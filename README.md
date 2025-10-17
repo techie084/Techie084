@@ -1,6 +1,6 @@
-<h1 align="left"> Hi, I'm Wisdom ✨😊 </h1>
+<h1 align="left"> Hi, I'm Emediong ✨😊 </h1>
 
-I am a **software developer** that love to build amazing stuff, Currently learning Svelte while building side Projects 
+I am a **software developer** that love to build amazing stuff, Currently learning Node.js/Express while building side Projects 
 
 ### My Tech Stack 
 <div align="left">
