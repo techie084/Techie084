@@ -10,7 +10,7 @@ I am a **software developer** that love to build amazing stuff, Currently learni
 ### Looking for opportunities
 I am actively looking for a full time oppotunities. If you would like to contact me my email is [wisdommatthew08@gmail.com](mailto:wisdommatthew08@gmail.com)
 
-Also check out my website 😊, Thank You, [**Wisdom Matthew**](https://techie08.vercel.app)
+Also check out my website 😊, Thank You, [**Wisdom Matthew**](https://emediong08.vercel.app)
 
 <!---
 Techie084/Techie084 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
