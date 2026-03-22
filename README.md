@@ -1,6 +1,6 @@
 <h1 align="left"> Hi, I'm Emediong ✨😊 </h1>
 
-I am a **software developer** that love to build amazing stuff, Currently learning Node.js/Express while building side Projects 
+I am a **Full Stack Web Developer** that love to build amazing stuff, Currently learning Node.js/Express while building side Projects 
 
 ### My Tech Stack 
 <div align="left">
@@ -8,7 +8,7 @@ I am a **software developer** that love to build amazing stuff, Currently learni
 </div>
 
 ### Looking for opportunities
-I am actively looking for a full time oppotunities. If you would like to contact me my email is [wisdommatthew08@gmail.com](mailto:wisdommatthew08@gmail.com)
+I am actively looking for a full time oppotunities and interships. If you would like to contact me my email is [wisdommatthew08@gmail.com](mailto:wisdommatthew08@gmail.com)
 
 Also check out my website 😊, Thank You, [**Wisdom Matthew**](https://emediong08.vercel.app)
 
