@@ -1,14 +1,14 @@
 <h1 align="left"> Hi, I'm Emediong ✨😊 </h1>
 
-I am a **Full Stack Web Developer** that love to build amazing stuff, Currently learning Node.js/Express while building side Projects 
+I'm a **Product Engineer** that love to build amazing stuff, Currently learning Kotlin and how to build mobile apps while building side Projects 
 
 ### My Tech Stack 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=svelte,tailwind,git,typescript,express,nodejs,golang,mongodb," width={100}/><br>
+<img src="https://skillicons.dev/icons?i=svelte,tailwind,git,typescript,express,nodejs,golang,kotlin,postgres,mongodb," width={100}/><br>
 </div>
 
 ### Looking for opportunities
-I am actively looking for a full time oppotunities and interships. If you would like to contact me my email is [wisdommatthew08@gmail.com](mailto:wisdommatthew08@gmail.com)
+I am actively looking for a full time opportunities and internships. If you would like to contact me my email is [Emediong](mailto:wisdommatthew08@gmail.com)
 
 Also check out my website 😊, Thank You, [**Emediong Matthew**](https://emediong08.vercel.app)
 
